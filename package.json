@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Xiaoqi Qu",
 	"description": "This is a project to gain insight of managing package with npm",
-	"keywords":["test","learn","analysis"],
+	"keywords":["test","learn","analysis","freecodecamp"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

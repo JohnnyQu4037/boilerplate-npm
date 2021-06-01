@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Xiaoqi Qu",
 	"description": "This is a project to gain insight of managing package with npm",
+	"keywords":["test","learn","analysis"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
